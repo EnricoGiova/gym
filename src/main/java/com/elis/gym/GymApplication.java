@@ -8,6 +8,6 @@ public class GymApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GymApplication.class, args);
+		System.out.println("Applicazione Avviata");
 	}
-
 }
